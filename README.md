@@ -1,3 +1,3 @@
 # 3105GitIntro
 
-Thristan Jade D. Regis
+Thristan Jade D. Regis.
